@@ -1,2 +1,1 @@
-# mysql
-MySQL Scripts
+# Repositório de Scripts MySQL
